@@ -1,2 +1,2 @@
 console.log('main');
-console.log('fix/conflikt');
+console.log('fix2');
